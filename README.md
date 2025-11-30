@@ -1,8 +1,7 @@
 # 🚀 AscentPay: Digital Banking Management Information System (MIS)
 
 **AscentPay** is a production-ready, multi-role **Management Information System (MIS)** that simulates complete digital banking operations. Built with Flask + MongoDB, it delivers secure account management, real-time transaction processing, and comprehensive admin oversight for modern banking workflows.
-
-[![Demo Screenshot](output1.PNG)](output1.PNG) [![Demo Screenshot](output-2.PNG)](output-2.PNG)
+[![Demo Screenshot](output-2.PNG)](output-2.PNG)
 
 ## ✨ Core Features
 
