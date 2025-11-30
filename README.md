@@ -6,16 +6,16 @@
 
 ## ✨ Core Features
 
-| Feature | Description | Status |
-|---------|-------------|--------|
-| **🔐 Multi-Role Authentication** | Customer, Bank Officer, Admin dashboards with bcrypt + sessions | ✅ Complete |
-| **📋 Full CRUD Operations** | Create/Read/Update/Delete across 6 data structures | ✅ Complete |
-| **⚙️ Auto Account Generation** | 12-digit accounts, 16-digit cards, CVV, expiry on registration | ✅ Complete |
-| **✅ Admin Approval Workflow** | `isActive: False` → Manual activation + $100 deposit | ✅ Complete |
-| **💸 P2P Transfers** | Real-time validation + overdraft protection | ✅ Complete |
-| **🛡️ Overdraft System** | $1,000 limit, $35 fee after 24h negative balance | ✅ Complete |
-| **🛒 E-commerce Payments** | Full debit card validation (CVV/expiry/name) | ✅ Complete |
-| **📊 Transaction Audit Trail** | Immutable logs with timestamps + types | ✅ Complete |
+| Feature | Description |
+|---------|-------------|
+| **🔐 Multi-Role Authentication** | Customer, Bank Officer, Admin dashboards with bcrypt + sessions 
+| **📋 Full CRUD Operations** | Create/Read/Update/Delete across 6 data structures 
+| **⚙️ Auto Account Generation** | 12-digit accounts, 16-digit cards, CVV, expiry on registration
+| **✅ Admin Approval Workflow** | `isActive: False` → Manual activation + $100 deposit 
+| **💸 P2P Transfers** | Real-time validation + overdraft protection 
+| **🛡️ Overdraft System** | $1,000 limit, $35 fee after 24h negative balance 
+| **🛒 E-commerce Payments** | Full debit card validation (CVV/expiry/name) 
+| **📊 Transaction Audit Trail** | Immutable logs with timestamps + types 
 
 ## 🛠️ Modern Tech Stack
 
